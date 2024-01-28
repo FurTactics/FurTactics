@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![FurTactics's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurTactics&show_icons=true&bg_color=00000000)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurTactics&layout=donut&show_icons=true&bg_color=00000000)]()
+[![FurTactics's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurTactics&show_icons=true&bg_color=00000000&card_width=500px)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurTactics&layout=donut&show_icons=true&bg_color=00000000&card_width=500px)]()
 <!--
 **FurTactics/FurTactics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
